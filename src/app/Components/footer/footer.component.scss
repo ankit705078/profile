@@ -1,0 +1,18 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+
+    &-links{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    span{
+        padding:5px;
+        background-color: transparent;
+        
+    }
+}

@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+  background-color: yellowgreen;
+  
+  .navlinks {
+    width: auto;
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+
+    span {
+      margin: auto;
+      color: #fff;
+      background-color: rgba(37, 108, 21, 0.8);
+      padding: 8px;
+      border-radius: 8px;
+      width: 8em;
+      text-align: center;
+    }
+  }
+}
